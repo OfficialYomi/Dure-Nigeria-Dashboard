@@ -1,0 +1,6 @@
+{
+  "name": "Dure Nigeria",
+  "description": "Interactive project portfolio command center for Dure Nigeria showcasing active projects in Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
